@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name | Data Analyst</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+    header { background: #0d1117; color: #fff; padding: 20px; text-align: center; }
+    section { padding: 20px; max-width: 900px; margin: auto; }
+    h1, h2 { color: #0d1117; }
+    a { color: #0366d6; text-decoration: none; }
+    .project { border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 10px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Your Name</h1>
+  <p>Data Analyst | SQL • Python • Tableau</p>
+  <p><a href="mailto:youremail@example.com" style="color:white;">youremail@example.com</a> | 
+     <a href="https://www.linkedin.com/in/yourname" style="color:white;">LinkedIn</a></p>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>I’m a data analyst passionate about transforming raw data into actionable insights. Skilled in SQL, Python, and data visualization tools like Tableau and Power BI.</p>
+</section>
+
+<section>
+  <h2>Projects</h2>
+  <div class="project">
+    <h3>Sales Dashboard in Tableau</h3>
+    <p>Interactive dashboard analyzing sales trends and KPIs. <a href="https://public.tableau.com/yourproject">View Project</a></p>
+  </div>
+  <div class="project">
+    <h3>Customer Churn Analysis</h3>
+    <p>Python-based analysis predicting churn using logistic regression. <a href="https://github.com/yourusername/churn-analysis">View Code</a></p>
+  </div>
+</section>
+
+<section>
+  <h2>Skills</h2>
+  <ul>
+    <li>SQL (PostgreSQL, MySQL)</li>
+    <li>Python (Pandas, NumPy, Matplotlib, Seaborn)</li>
+    <li>Data Visualization (Tableau, Power BI)</li>
+    <li>Data Cleaning & Transformation</li>
+  </ul>
+</section>
+
+</body>
+</html>
